@@ -10,7 +10,7 @@ const Players = () => {
   }, []);
   return (
     <div className="container mx-auto bg-indigo-500 py-8">
-      <h1 className="text-3xl font-bold text-center mb-6">
+      <h1 className="text-4xl text-teal-300 font-bold text-center mb-6">
         Current Players : {players.length}
       </h1>
 

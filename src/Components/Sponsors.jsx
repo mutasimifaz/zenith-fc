@@ -7,12 +7,12 @@ import { faEye, faHandshake } from "@fortawesome/free-solid-svg-icons";
 
 const Sponsors = () => {
   return (
-    <div className="container mx-auto bg-indigo-500 py-8">
+    <div className="container mx-auto bg-white py-8">
       <h1 className="text-4xl font-bold mb-2 text-center text-yellow-500 sarpanch-regular">
         Meet Our Valuable Sponsors
       </h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6 p-10 items-center justify-center">
-        <div className="sarpanch-regular bg-indigo-300 rounded-xl overflow-hidden shadow-lg w-80">
+        <div className="sarpanch-regular bg-gray-300 rounded-xl overflow-hidden shadow-lg w-80">
           <img src={MI} alt={`Card`} className="w-full items-center" />
           <div className="p-4">
             <h2 className="text-white text-2xl font-bold mb-2 text-center">
@@ -25,7 +25,7 @@ const Sponsors = () => {
             </button>
           </div>
         </div>
-        <div className="sarpanch-regular bg-indigo-300 rounded-xl overflow-hidden shadow-lg w-80">
+        <div className="sarpanch-regular bg-gray-300 rounded-xl overflow-hidden shadow-lg w-80">
           <img src={Bruvana} alt={`Card`} className="w-full items-center" />
           <div className="p-4">
             <h2 className="text-white text-2xl font-bold mb-2 text-center">
@@ -38,7 +38,7 @@ const Sponsors = () => {
             </button>
           </div>
         </div>
-        <div className="sarpanch-regular bg-indigo-300 rounded-xl overflow-hidden shadow-lg w-80">
+        <div className="sarpanch-regular bg-gray-300 rounded-xl overflow-hidden shadow-lg w-80">
           <img src={JB} alt={`Card`} className="w-full items-center" />
           <div className="p-4">
             <h2 className="text-white text-2xl font-bold mb-2 text-center">
@@ -51,7 +51,7 @@ const Sponsors = () => {
             </button>
           </div>
         </div>
-        <div className="sarpanch-regular bg-indigo-300 rounded-xl overflow-hidden shadow-lg w-80">
+        <div className="sarpanch-regular bg-gray-300 rounded-xl overflow-hidden shadow-lg w-80">
           <img src={HL} alt={`Card`} className="w-full items-center" />
           <div className="p-4">
             <h2 className="text-white text-2xl font-bold mb-2 text-center">
