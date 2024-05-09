@@ -1,4 +1,7 @@
 import PropTypes from "prop-types";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faFutbol } from "@fortawesome/free-solid-svg-icons";
+
 const Player = ({ player }) => {
   const { displayname, position, age, image } = player;
   return (
@@ -11,10 +14,16 @@ const Player = ({ player }) => {
         />
       </div>
 
-      <div className="p-4  bg-indigo-400  rounded-xl">
-        <h2 className="text-white text-xl mb-2">{displayname}</h2>
-        <p className="text-white text-xl">Position: {position}</p>
-        <p className="text-white text-xl">Age :{age}</p>
+      <div className="p-4  bg-indigo-400 rounded-xl">
+        <h2 className="text-lime-400 text-xl mb-2 text-center">
+          {displayname}
+        </h2>
+        <p className="text-yellow-500 text-sm md:text-base lg:text-xl text-center">
+          <FontAwesomeIcon icon={faFutbol} /> {position}
+        </p>
+        <p className="text-teal-500 text-sm md:text-base lg:text-xl text-center">
+          Age :{age}
+        </p>
       </div>
     </div>
   );
