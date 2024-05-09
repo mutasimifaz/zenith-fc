@@ -11,7 +11,7 @@ const Sponsors = () => {
       <h1 className="text-4xl font-bold mb-2 text-center text-yellow-500 sarpanch-regular">
         Meet Our Valuable Sponsors
       </h1>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6 p-10">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6 p-10 items-center justify-center">
         <div className="sarpanch-regular bg-indigo-300 rounded-xl overflow-hidden shadow-lg w-80">
           <img src={MI} alt={`Card`} className="w-full items-center" />
           <div className="p-4">
