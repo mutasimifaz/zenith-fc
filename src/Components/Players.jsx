@@ -14,7 +14,7 @@ const Players = () => {
         Current Players : {players.length}
       </h1>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6 p-10">
+      <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6 p-10">
         {players.map((player) => (
           <Player player={player} key={player.ID}></Player>
         ))}
