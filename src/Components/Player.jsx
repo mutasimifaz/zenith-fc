@@ -21,7 +21,7 @@ const Player = ({ player }) => {
         <p className="text-yellow-500 text-sm md:text-base lg:text-xl text-center">
           <FontAwesomeIcon icon={faFutbol} /> {position}
         </p>
-        <p className="text-teal-500 text-sm md:text-base lg:text-xl text-center">
+        <p className="text-violet-600	 text-sm md:text-base lg:text-xl text-center">
           Age :{age}
         </p>
       </div>
