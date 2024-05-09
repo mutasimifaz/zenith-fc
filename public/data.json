@@ -4,8 +4,8 @@
     "displayname": "Afridi",
     "name": "Nahidul Islam",
     "image": "https://i.ibb.co/Kypzjy5/player-image-6.png",
-    "goals": "",
-    "assists": "",
+    "goals": "6",
+    "assists": "4",
     "position": "CF",
     "altposition": ["MF", "ST"],
     "age": 17
@@ -16,8 +16,8 @@
     "name": "Azizul Islam",
     "image": "https://i.ibb.co/8Kxf7jz/player-image-7.png",
 
-    "goals": "",
-    "assists": "",
+    "goals": "0",
+    "assists": "1",
     "position": "CB",
     "altposition": ["GK"],
     "age": 16
@@ -28,8 +28,8 @@
     "name": "Morshedul Islam",
     "image": "https://i.ibb.co/vc88FTS/player-image-3.png",
 
-    "goals": "",
-    "assists": "",
+    "goals": "1",
+    "assists": "2",
     "position": "CB",
     "altposition": ["DMF"],
     "age": 18
@@ -39,8 +39,8 @@
     "displayname": "Rafi",
     "name": "Shahriar Hossain",
     "image": "https://i.ibb.co/QPgsqBV/player-image-5.png",
-    "goals": "",
-    "assists": "",
+    "goals": "3",
+    "assists": "2",
     "position": "LWF",
     "altposition": ["MF", "CF"],
     "age": 16
@@ -50,8 +50,8 @@
     "displayname": "Ashik",
     "name": "Rejoanul Karim",
     "image": "https://i.ibb.co/fqJC4fJ/player-image-4.png",
-    "goals": "",
-    "assists": "",
+    "goals": "5",
+    "assists": "6",
     "position": "AMF",
     "altposition": ["ST", "RWF"],
     "age": 16
@@ -61,8 +61,8 @@
     "displayname": "Siam",
     "name": "Tahsin Alam",
     "image": "https://i.ibb.co/YkNXPKn/player-image-2.png",
-    "goals": "",
-    "assists": "",
+    "goals": "4",
+    "assists": "7",
     "position": "DMF",
     "altposition": ["ST", "AMF"],
     "age": 16
@@ -72,8 +72,8 @@
     "displayname": "Emraz",
     "name": "Gazi Monirujjaman",
     "image": "https://i.ibb.co/ssG6HXx/player-image-8.png",
-    "goals": "",
-    "assists": "",
+    "goals": "9",
+    "assists": "3",
     "position": "RWF",
     "altposition": ["ST", "CF"],
     "age": 18
@@ -84,8 +84,8 @@
     "displayname": "Ifaz",
     "name": "Mutasim Hussain",
     "image": "https://i.ibb.co/8mzgQfx/player-image.png",
-    "goals": "",
-    "assists": "",
+    "goals": "1",
+    "assists": "4",
     "position": "RB",
     "altposition": ["CB", "GK"],
     "age": 17
@@ -95,8 +95,8 @@
     "displayname": "Sajid",
     "name": "Shajid Shafkat",
     "image": "https://i.ibb.co/kcZftdc/player-image-1.png",
-    "goals": "",
-    "assists": "",
+    "goals": "0",
+    "assists": "0",
     "position": "GK",
     "altposition": ["CB"],
     "age": 17
@@ -106,8 +106,8 @@
     "displayname": "Faiyaz",
     "name": "Faiyaz Fahad",
     "image": "https://i.ibb.co/sgc7nJh/player-image-9.png",
-    "goals": "",
-    "assists": "",
+    "goals": "2",
+    "assists": "1",
     "position": "CMF",
     "altposition": ["CB"],
     "age": 17
@@ -117,8 +117,8 @@
     "displayname": "Arefin",
     "name": "Arefin Kolpon",
     "image": "https://i.ibb.co/ZGBj5HB/player-image-10.png",
-    "goals": "",
-    "assists": "",
+    "goals": "1",
+    "assists": "0",
     "position": "CB",
     "altposition": ["LB"],
     "age": 17
