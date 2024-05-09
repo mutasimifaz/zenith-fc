@@ -1,0 +1,126 @@
+[
+  {
+    "ID": 123456,
+    "displayname": "Afridi",
+    "name": "Nahidul Islam",
+    "image": "https://i.ibb.co/Kypzjy5/player-image-6.png",
+    "goals": "",
+    "assists": "",
+    "position": "CF",
+    "altposition": ["MF", "ST"],
+    "age": 17
+  },
+  {
+    "ID": 234567,
+    "displayname": "Arafat",
+    "name": "Azizul Islam",
+    "image": "https://i.ibb.co/8Kxf7jz/player-image-7.png",
+
+    "goals": "",
+    "assists": "",
+    "position": "CB",
+    "altposition": ["GK"],
+    "age": 16
+  },
+  {
+    "ID": 234567,
+    "displayname": "Morshed",
+    "name": "Morshedul Islam",
+    "image": "https://i.ibb.co/vc88FTS/player-image-3.png",
+
+    "goals": "",
+    "assists": "",
+    "position": "CB",
+    "altposition": ["DMF"],
+    "age": 18
+  },
+  {
+    "ID": 345678,
+    "displayname": "Rafi",
+    "name": "Shahriar Hossain",
+    "image": "https://i.ibb.co/QPgsqBV/player-image-5.png",
+    "goals": "",
+    "assists": "",
+    "position": "LWF",
+    "altposition": ["MF", "CF"],
+    "age": 16
+  },
+  {
+    "ID": 456789,
+    "displayname": "Ashik",
+    "name": "Rejoanul Karim",
+    "image": "https://i.ibb.co/fqJC4fJ/player-image-4.png",
+    "goals": "",
+    "assists": "",
+    "position": "AMF",
+    "altposition": ["ST", "RWF"],
+    "age": 16
+  },
+  {
+    "ID": 567890,
+    "displayname": "Siam",
+    "name": "Tahsin Alam",
+    "image": "https://i.ibb.co/zJ7hy8p/player-image-2.png",
+    "goals": "",
+    "assists": "",
+    "position": "DMF",
+    "altposition": ["ST", "AMF"],
+    "age": 16
+  },
+  {
+    "ID": 678901,
+    "displayname": "Emraz",
+    "name": "Gazi Monirujjaman",
+    "image": "https://i.ibb.co/ssG6HXx/player-image-8.png",
+    "goals": "",
+    "assists": "",
+    "position": "RWF",
+    "altposition": ["ST", "CF"],
+    "age": 18
+  },
+
+  {
+    "ID": 890123,
+    "displayname": "Ifaz",
+    "name": "Mutasim Hussain",
+    "image": "https://i.ibb.co/8mzgQfx/player-image.png",
+    "goals": "",
+    "assists": "",
+    "position": "RB",
+    "altposition": ["CB", "GK"],
+    "age": 17
+  },
+  {
+    "ID": 901234,
+    "displayname": "Sajid",
+    "name": "Shajid Shafkat",
+    "image": "https://i.ibb.co/kcZftdc/player-image-1.png",
+    "goals": "",
+    "assists": "",
+    "position": "GK",
+    "altposition": ["CB"],
+    "age": 17
+  },
+  {
+    "ID": 901234,
+    "displayname": "Faiyaz",
+    "name": "Faiyaz Fahad",
+    "image": "https://i.ibb.co/sgc7nJh/player-image-9.png",
+    "goals": "",
+    "assists": "",
+    "position": "CMF",
+    "altposition": ["CB"],
+    "age": 17
+  },
+  {
+    "ID": 901234,
+    "displayname": "Arefin",
+    "name": "Arefin Kolpon",
+    "image": "https://i.ibb.co/ZGBj5HB/player-image-10.png",
+    "goals": "",
+    "assists": "",
+    "position": "CB",
+    "altposition": ["LB"],
+    "age": 17
+  }
+]
